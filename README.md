@@ -5,3 +5,5 @@ Steps to reproduce:
 - Run `bun run start`
 
 It will build a bundle and run it. The script will hang because of the gRPC bundling bug.
+
+Bun version: `1.2.13` (`bun -v`)
